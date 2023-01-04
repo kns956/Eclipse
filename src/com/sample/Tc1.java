@@ -8,6 +8,7 @@ public class Tc1 {
 		String m="mani";
 		System.out.println(m);
 		
+
 	}
 
 }
