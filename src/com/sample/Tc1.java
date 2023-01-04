@@ -6,6 +6,9 @@ public class Tc1 {
        
 		String s="sathya";
 		String m="mani";
+		System.out.println(m);
+		
+
 	}
 
 }
